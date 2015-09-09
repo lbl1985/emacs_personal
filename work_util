@@ -1,0 +1,3 @@
+(defun search_str (str)
+  (interactive)
+  (eval '
